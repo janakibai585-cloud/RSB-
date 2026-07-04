@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RSB Konkani Learning</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+margin:0;
+background:#f2f2f2;
+}
+header{
+background:#ff6600;
+color:white;
+text-align:center;
+padding:20px;
+}
+nav{
+background:#333;
+padding:10px;
+text-align:center;
+}
+nav a{
+color:white;
+text-decoration:none;
+margin:10px;
+font-weight:bold;
+}
+section{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 2px 6px rgba(0,0,0,.2);
+}
+table{
+width:100%;
+border-collapse:collapse;
+margin-top:10px;
+}
+th,td{
+border:1px solid #ccc;
+padding:8px;
+text-align:center;
+}
+th{
+background:#ff6600;
+color:white;
+}
+footer{
+background:#333;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:20px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>📖 RSB Konkani Learning Website</h1>
+<p>English • Kannada • Devanagari</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#dictionary">Dictionary</a>
+<a href="#sentences">Sentences</a>
+<a href="#history">History</a>
+</nav>
+
+<section id="home">
+<h2>🏠 Home</h2>
+<p>Welcome to the Rajapur Saraswat Brahmin (RSB) Konkani Learning Website.</p>
+<p>This project helps learners understand Konkani words, sentences and history.</p>
+</section>
+
+<section id="dictionary">
+<h2>📖 Dictionary</h2>
+
+<table>
+<tr>
+<th>English</th>
+<th>Konkani (RSB) - Kannada</th>
+<th>Konkani (RSB) - Devanagari</th>
+</tr>
+
+<tr>
+<td>Water</td>
+<td>ನೀರ್</td>
+<td>नीर</td>
+</tr>
+
+<tr>
+<td>House</td>
+<td>ಘರ್</td>
+<td>घर</td>
+</tr>
+
+<tr>
+<td>Mother</td>
+<td>ಆಯಿ</td>
+<td>आई</td>
+</tr>
+
+</table>
+
+</section>
+
+<section id="sentences">
+
+<h2>💬 Sentences</h2>
+
+<table>
+
+<tr>
+<th>English</th>
+<th>Konkani (RSB) - Kannada</th>
+<th>Konkani (RSB) - Devanagari</th>
+</tr>
+
+<tr>
+<td>What is your name?</td>
+<td>ತುಜೆ ನಾಂವ್ ಕಾಯಿ?</td>
+<td>तुझे नांव काय?</td>
+</tr>
+
+<tr>
+<td>How are you?</td>
+<td>ತು ಕಸೊ ಆಸಾ?</td>
+<td>तु कसो आसा?</td>
+</tr>
+
+<tr>
+<td>I am fine.</td>
+<td>ಹಾಂವ್ ಬರೊ ಆಸಾಂ.</td>
+<td>हांव बरो आसां.</td>
+</tr>
+
+</table>
+
+</section>
+
+<section id="history">
+
+<h2>📜 History</h2>
+
+<p>
+Rajapur Saraswat Brahmins (RSB) are a Konkani-speaking community found mainly in Karnataka, Goa and Maharashtra. Their language is a form of Konkani written in Kannada and Devanagari scripts.
+</p>
+
+</section>
+
+<footer>
+
+Made by ❤️ for RSB Konkani Project
+
+</footer>
+
+</body>
+</html>
